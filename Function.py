@@ -1,6 +1,8 @@
 import Color
 import Stat
 
+print('ss')
+
 player = {
     "max_health": 1000,
     "current_health": 10,
