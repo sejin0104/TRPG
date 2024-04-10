@@ -2,14 +2,14 @@ import Color
 import Stat
 
 player = {
-        "max_health": 1000,
-        "current_health": 10,
-        "attack": 10,
-        "defense": 10,
-        "speed": 10,
-        "level": 1,
-        "experience": 0,
-    }
+    "max_health": 1000,
+    "current_health": 10,
+    "attack": 10,
+    "defense": 10,
+    "speed": 10,
+    "level": 1,
+    "experience": 0,
+}
 
 def Inventory(user):
     print('Inventory')
